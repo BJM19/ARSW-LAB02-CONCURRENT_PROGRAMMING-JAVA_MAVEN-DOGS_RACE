@@ -7,8 +7,11 @@
 ### Descripción:
 Este ejercicio tiene como fin que el estudiante conozca y aplique conceptos propios de la programación concurrente.
 ### Integrantes:
+
 Brayan Jiménez
+
 Mateo Quintero
+
 ### Parte I 
 Antes de terminar la clase.
 
