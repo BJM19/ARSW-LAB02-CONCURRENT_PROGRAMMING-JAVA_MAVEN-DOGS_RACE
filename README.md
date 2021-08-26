@@ -6,7 +6,9 @@
 
 ### Descripción:
 Este ejercicio tiene como fin que el estudiante conozca y aplique conceptos propios de la programación concurrente.
-
+### Integrantes:
+Brayan Jiménez
+Mateo Quintero
 ### Parte I 
 Antes de terminar la clase.
 
@@ -93,6 +95,7 @@ Parte III
     ![](./img/img_7.png)
     >
     > Resultado en consola:
+    > 
     ![](./img/img_8.png)
 
 4.  Implemente las funcionalidades de pausa y continuar. Con estas,
